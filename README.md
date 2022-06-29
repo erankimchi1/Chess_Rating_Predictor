@@ -4,7 +4,7 @@ We will predict the rating for chess players according to their performance base
 
 We will use different steps on our road :
 
-## Crawling
-## Proccesing
-## EDA
-## Machine Learning
+#### 1. Crawling
+#### 2. Proccesing
+#### 3. EDA
+#### 4. Machine Learning
